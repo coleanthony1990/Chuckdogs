@@ -41,7 +41,7 @@ return (
     <div className='riddle-container'>
     <h2>{joke.joke}</h2>
     
-    <button className='button-17' onClick={newJoke}>GIMME ANOTHER!</button>
+    <button className='button-17' onClick={newJoke}>GIMME ANOTHER, BITCH!</button>
     </div>
     </div>
 )
